@@ -1,4 +1,4 @@
-# Light-glow based Nighttime PM2.5 Estimation
+# Halation-Based Nighttime PM2.5 Estimation
 Code and Data for paper 《Halation-Based Nighttime PM2.5 Estimation》，originally titled《Light-glow based Nighttime PM2.5 Estimation》.
 
 ## Data
